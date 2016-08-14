@@ -1,0 +1,20 @@
+{
+  "name": "mean-todo-angular2",
+  "description": "to do app using angular 2",
+  "main": "index.js",
+  "authors": [
+    "kissa1001 <kissa101295@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
